@@ -1,0 +1,11 @@
+{
+  "name": "My Business",
+  "nameAr": "متجري",
+  "greeting": "Hello, welcome to My Business! How can I help you today?",
+  "greetingAr": "مرحباً، أهلاً بك في متجرنا! كيف أقدر أساعدك؟",
+  "hours": "Daily 9 AM – 11 PM",
+  "hoursAr": "يومياً من ٩ صباحاً حتى ١١ مساءً",
+  "currency": "EGP",
+  "requiresAddress": true,
+  "requiresPhone": true
+}
